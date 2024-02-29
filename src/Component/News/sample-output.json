@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 8519,
+    "articles": [
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Matt Burgess, Dhruv Mehrotra",
+        "title": "China’s Hackers Keep Targeting US Water and Electricity Supplies",
+        "description": "Plus: Russia was likely behind widespread GPS outages, Vault 7 leaker was sentenced, police claim to trace Monero cryptocurrency, and more.",
+        "url": "https://www.wired.com/story/china-hackers-us-water-electricity-moreno-vault-7/",
+        "urlToImage": "https://media.wired.com/photos/65bd1c471d8a9e5e83f03f22/191:100/w_1280,c_limit/China%E2%80%99s-Hackers-Keep-Targeting-US-Water-and-Electricity-Supplies-Security-GettyImages-1784871790.jpg",
+        "publishedAt": "2024-02-03T14:00:00Z",
+        "content": "An indictment from the US Department of Justice may have solved the mystery of how disgraced cryptocurrency exchange FTX lost over $400 million in crypto. The indictment, filed last week, alleges tha… [+3401 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "FTX says it will pay back customers",
+        "description": "FTX says it expects to pay back the customers who lost billions of dollars following the collapse of the cryptocurrency exchange in November 2022.",
+        "url": "https://www.theverge.com/2024/1/31/24056991/ftx-repay-customers-bankruptcy",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/sagf-DprDvAXnOSpz0rWYTD-ZB8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24038395/STK136_K_Radtke_FTX_01.jpg",
+        "publishedAt": "2024-01-31T17:44:59Z",
+        "content": "FTX says it will pay back customers\r\nFTX says it will pay back customers\r\n / A lawyer for the company said customers will eventually be paid in full.\r\nByEmma Roth, a news writer who covers the stream… [+1857 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Justine Calma",
+        "title": "Crypto mines will have to start reporting their energy use in the US",
+        "description": "The US Energy Information Administration says it will start a survey of crypto mines’ electricity consumption following concerns about Bitcoin’s energy hunger and greenhouse gas emissions.",
+        "url": "https://www.theverge.com/2024/1/31/24057176/crypto-bitcoin-mining-survey-us-energy-information-administration",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/-W7lVDL2lRP_1kdCg8KuwSPKXLk=/0x0:7360x4912/1200x628/filters:focal(3680x2456:3681x2457)/cdn.vox-cdn.com/uploads/chorus_asset/file/25259226/1235927106.jpg",
+        "publishedAt": "2024-01-31T19:30:56Z",
+        "content": "Crypto mines will have to start reporting their energy use in the US\r\nCrypto mines will have to start reporting their energy use in the US\r\n / A survey of crypto mines electricity consumption in the … [+2701 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Andy Greenberg",
+        "title": "How a 27-Year-Old Codebreaker Busted the Myth of Bitcoin’s Anonymity",
+        "description": "Once, drug dealers and money launderers saw cryptocurrency as perfectly untraceable. Then a grad student named Sarah Meiklejohn proved them all wrong—and set the stage for a decade-long crackdown.",
+        "url": "https://www.wired.com/story/27-year-old-codebreaker-busted-myth-bitcoins-anonymity/",
+        "urlToImage": "https://media.wired.com/photos/65a72695e5015b60480cbdf6/191:100/w_1280,c_limit/Meiklejohn_Final_Static2.jpg",
+        "publishedAt": "2024-01-17T11:00:00Z",
+        "content": "When Meiklejohn started college at Brown in 2004, she discovered cryptography. This branch of computer science appealed directly to her puzzle addictionwhat was an encryption system, after all, but a… [+5574 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Maxwell Zeff",
+        "title": "Bitcoin Wears a Patagonia Vest Now, but Is It Still Crypto?",
+        "description": "Cryptocurrency cleaned up its act this week as spot Bitcoin ETFs made their Wall Street debut in January. The digital tokens are looking almost unrecognizable from what the industry represented just a few years ago, leading to the question, is Bitcoin still c…",
+        "url": "https://gizmodo.com/bitcoin-wears-patagonia-vest-now-is-it-still-crypto-1851216868",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5cf152d4aa3e03d74ce08b74ea03e1a3.png",
+        "publishedAt": "2024-02-02T13:00:00Z",
+        "content": "Cryptocurrency cleaned up its act this week as spot Bitcoin ETFs made their Wall Street debut in January. The digital tokens are looking almost unrecognizable from what the industry represented just … [+2710 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Brad Anderson",
+        "title": "How Can Your Startup Support Cryptocurrency?",
+        "description": "Cryptocurrency will become more popular and more accepted as more mainstream businesses support it. Without that ongoing recognition and perceived […]\nThe post How Can Your Startup Support Cryptocurrency? appeared first on ReadWrite.",
+        "url": "https://readwrite.com/how-can-your-startup-support-cryptocurrency/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/examples-of-cryptocurrency-scaled.jpg",
+        "publishedAt": "2024-01-26T19:45:43Z",
+        "content": "Cryptocurrency will become more popular and more accepted as more mainstream businesses support it. Without that ongoing recognition and perceived legitimacy, cryptocurrencies may continue to exist i… [+7636 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "EditorDavid",
+        "title": "Companies Once Focused On Mining Cryptocurrency Pivot To Generative AI",
+        "description": "\"Companies that once serviced the boom in cryptocurrency mining are pivoting to take advantage of the latest data gold rush,\" reports the Guardian.\n\nCanadian company Hive Blockchain changed its name in July to Hive Digital Technologies and announced it was pi…",
+        "url": "https://news.slashdot.org/story/24/01/27/0724239/companies-once-focused-on-mining-cryptocurrency-pivot-to-generative-ai",
+        "urlToImage": "https://a.fsdn.com/sd/topics/ai_64.png",
+        "publishedAt": "2024-01-27T17:34:00Z",
+        "content": "Canadian company Hive Blockchain changed its name in July to Hive Digital Technologies and announced it was pivoting to AI. \"Hive has been a pioneering force in the cryptocurrency mining sector since… [+2057 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "EditorDavid",
+        "title": "Over 2 Percent of the US's Electricity Generation Now Goes To Bitcoin",
+        "description": "\"In the last few years, the U.S. has seen a boom in cryptocurrency mining,\" writes Ars Technica. But they add that the U.S. government \"is now trying to track exactly what that means for the consumption of electricity. Specifically, a crucial branch of the U.…",
+        "url": "https://hardware.slashdot.org/story/24/02/03/0428251/over-2-percent-of-the-uss-electricity-generation-now-goes-to-bitcoin",
+        "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+        "publishedAt": "2024-02-03T18:34:00Z",
+        "content": "\"In the last few years, the U.S. has seen a boom in cryptocurrency mining,\" writes Ars Technica. But they add that the U.S. government \"is now trying to track exactly what that means for the consumpt… [+2040 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Andy Greenberg",
+        "title": "The $400 Million FTX Heist Mystery May Have Been Solved",
+        "description": "An indictment against three Americans suggests that at least some of the culprits behind the theft of an FTX crypto fortune may be in custody.",
+        "url": "https://www.wired.com/story/ftx-heist-sim-swat-indictment/",
+        "urlToImage": "https://media.wired.com/photos/65bbff20098d608f3b8b686b/191:100/w_1280,c_limit/FTX-Heist-Security-1244772036.jpg",
+        "publishedAt": "2024-02-01T21:48:55Z",
+        "content": "When more than $400 million worth of crypto was mysteriously pulled out of the coffers of what was once the world's biggest cryptocurrency exchange, FTX, on the very day that it declared bankruptcy i… [+3133 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "BeauHD",
+        "title": "'Stablecoins' Enabled $40 Billion In Crypto Crime Since 2022",
+        "description": "An anonymous reader quotes a report from Wired: Stablecoins, cryptocurrencies pegged to a stable value like the US dollar, were created with the promise of bringing the frictionless, border-crossing fluidity of Bitcoin to a form of digital money with far less…",
+        "url": "https://yro.slashdot.org/story/24/01/18/2112213/stablecoins-enabled-40-billion-in-crypto-crime-since-2022",
+        "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+        "publishedAt": "2024-01-18T22:00:00Z",
+        "content": "An anonymous reader quotes a report from Wired: Stablecoins, cryptocurrencies pegged to a stable value like the US dollar, were created with the promise of bringing the frictionless, border-crossing … [+3000 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Hannah Getahun,Jessica Orwig",
+        "title": "A Colorado pastor accused of pocketing $1.3 million in cryptocurrency scam says the Lord encouraged him to use funds for a home remodel",
+        "description": "Colorado pastor Eli Regalado and his wife Kaitlyn are being accused of selling \"practically worthless\" crypto and using the money for a home remodel.",
+        "url": "https://www.businessinsider.com/colorado-pastor-charged-cryptocurrency-scam-lord-ordained-fraud-2024-1",
+        "urlToImage": "https://i.insider.com/65b0384d6c8f0a134f7967f4?width=1200&format=jpeg",
+        "publishedAt": "2024-01-24T00:01:41Z",
+        "content": "We Are/Getty images\r\n<ul><li>A Colorado pastor and his wife are being accused of selling \"practically worthless\" crypto. </li><li>Eli Regalado said many of the charges were true but insisted it was a… [+5020 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Rachael Davis",
+        "title": "Cyber security agency warns this WordPress widget might leak data",
+        "description": "A WordPress crypto widget used by thousands could contain a security vulnerability that could leak data to potential attackers. Cyber […]\nThe post Cyber security agency warns this WordPress widget might leak data appeared first on ReadWrite.",
+        "url": "https://readwrite.com/security-cyber-agency-warns-this-wordpress-widget-might-leak-data/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/pexels-sora-shimazaki-5935794-scaled.jpg",
+        "publishedAt": "2024-02-08T12:49:33Z",
+        "content": "A WordPress crypto widget used by thousands could contain a security vulnerability that could leak data to potential attackers.\r\nCyber Security Agency (CSA) Singapore has released a security bulletin… [+1839 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "asoni@insider.com (Aruni Soni)",
+        "title": "Crypto miners used the same amount of electricity as all of Australia last year",
+        "description": "In the US alone, crypto mining uses 0.6% to 2.3% of the country's electricity demand — as much as entire states like Utah or West Virginia.",
+        "url": "https://markets.businessinsider.com/news/currencies/bitcoin-crypto-mining-electricity-energy-us-government-cryptocurrency-australia-eia-2024-2",
+        "urlToImage": "https://i.insider.com/65c125247a3d27148877c187?width=1200&format=jpeg",
+        "publishedAt": "2024-02-05T19:45:52Z",
+        "content": "In 2023, crypto miners around the world used as much electricity as the entirety of Australia. \r\nThat's according to a new report from the Energy Information Administration. In an analysis posted las… [+1923 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Web3isgoinggreat.com"
+        },
+        "author": "Molly White",
+        "title": "Colorado pastor charged for cryptocurrency scam he perpetrated at God's command",
+        "description": "A Colorado-based pastor for an online ministry sold INDXcoin to his followers and others in the Christian faith. However, there was no way for buyers to cash out the tokens. Meanwhile, Regalado and his wife spent the money on a Rolls Royce, jewelry, and desig…",
+        "url": "https://web3isgoinggreat.com/single/indxcoin",
+        "urlToImage": "https://storage.googleapis.com/primary-web3/entryImages/resized/regalado_500.webp",
+        "publishedAt": "2024-01-21T10:04:21Z",
+        "content": "A Colorado-based pastor for an online ministry sold INDXcoin to his followers and others in the Christian faith. However, there was no way for buyers to cash out the tokens. Meanwhile, Regalado and h… [+918 chars]"
+      },
+      {
+        "source": {
+          "id": "the-next-web",
+          "name": "The Next Web"
+        },
+        "author": "Thomas Macaulay",
+        "title": "Insta mules and crypto mixers: How tech is transforming money laundering",
+        "description": "On the shallow surface of Instagram, Ramon “Hushpuppi” Abbas was a quintessential influencer. The flamboyant Nigerian portrayed a lavish lifestyle of private jets, luxury cars, and designer clothes. His glamorous adventures had earned him over 2 million follo…",
+        "url": "https://thenextweb.com/news/geoff-white-lazarus-group-high-tech-money-laundering",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FUntitled-design-10.jpg&signature=19c9dadd25ee8623137cb9af344d18ac",
+        "publishedAt": "2024-01-30T08:14:19Z",
+        "content": "On the shallow surface of Instagram, Ramon Hushpuppi Abbas was a quintessential influencer. The flamboyant Nigerian portrayed a lavish lifestyle of private jets, luxury cars, and designer clothes. Hi… [+8778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Deanna Ritchie",
+        "title": "Everyone wants to buy and sell bitcoin after the SEC made it easier",
+        "description": "Over the last two weeks, Bitcoin’s value has dropped by 15% as some investors have taken advantage of the much-heralded […]\nThe post Everyone wants to buy and sell bitcoin after the SEC made it easier appeared first on ReadWrite.",
+        "url": "https://readwrite.com/everyone-wants-to-buy-and-sell-bitcoin-after-the-sec-made-it-easier/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/01/buy-and-sell-bitcoin.jpg",
+        "publishedAt": "2024-01-25T01:48:20Z",
+        "content": "Over the last two weeks, Bitcoin’s value has dropped by 15% as some investors have taken advantage of the much-heralded introduction of bitcoin exchange-traded funds earlier this month to sell their … [+2411 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Small Business Trends"
+        },
+        "author": "Samson Haileyesus",
+        "title": "What is a Cryptocurrency Broker?",
+        "description": "Do you know what a cryptocurrency broker is? Just like a regular broker, they facilitate the purchase and sales of cryptocurrencies for you.",
+        "url": "https://smallbiztrends.com/2024/01/cryptocurrency-broker.html",
+        "urlToImage": "https://media.smallbiztrends.com/2022/04/cryptocurrency-broker.png",
+        "publishedAt": "2024-01-31T13:35:34Z",
+        "content": "This article focuses on the integral role and functions of the cryptocurrency broker.  Cryptocurrency brokers play a pivotal role in todays digital economy, where cryptocurrencies are rapidly emergin… [+18465 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Louis Goss",
+        "title": "U.K. to start work on ‘Britcoin’ in preparation for cryptocurrency dominated world",
+        "description": "In a report, the U.K. warned the rise of cryptocurrencies poses a threat to Britain’s financial stability",
+        "url": "https://www.marketwatch.com/story/u-k-to-start-work-on-britcoin-in-preparation-for-cryptocurrency-dominated-world-66e82f45",
+        "urlToImage": "https://images.mktw.net/im-07045260/social",
+        "publishedAt": "2024-01-25T12:29:00Z",
+        "content": "The U.K. is set to start work on plans to create a digital version of Britains pound to ensure the country holds onto its monetary sovereignty in a world increasingly dominated by cryptocurrencies, t… [+2883 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Small Business Trends"
+        },
+        "author": "Barbara Weltman",
+        "title": "Tax Rules for Cryptocurrency in Your Business",
+        "description": "Over 6,300 businesses accepted Bitcoin as payment in 2023. What does accepting this payment mean for your business from a tax perspective?",
+        "url": "https://smallbiztrends.com/2024/01/cryptocurrency-tax-rules-for-your-business.html",
+        "urlToImage": "https://media.smallbiztrends.com/2024/01/sZVYwyn1-cryptocurrency-tax-rules-for-your-business.png",
+        "publishedAt": "2024-01-30T12:00:50Z",
+        "content": "According to one source\r\n, over 6,300 businesses accepted Bitcoin as payment in 2023, which was triple the number in 2022. The writing is on the wall: acceptance of digital currency as a payment meth… [+5156 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Small Business Trends"
+        },
+        "author": "Samson Haileyesus",
+        "title": "What is Cryptocurrency and How Does it Work?",
+        "description": "If you want a solid explanation of what is cryptocurrency and how does it work, here is everything you need to know before you buy your first coin.",
+        "url": "https://smallbiztrends.com/2023/09/what-is-cryptocurrency.html",
+        "urlToImage": "https://media.smallbiztrends.com/2023/09/bitcoin.png",
+        "publishedAt": "2024-02-16T14:15:28Z",
+        "content": "What is Cryptocurrency? A cryptocurrency is an encrypted digital or virtual currency. This is a new form of digital money where users can convert their traditional money like the U.S. dollar digitall… [+19014 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ben Lovejoy",
+        "title": "FTX customers look set to get their money back in full (with asterisk)",
+        "description": "In a surprise development, bankruptcy lawyers say that FTX customers – once considered to have lost almost everything – are now expected to get their money back in full from the remains of the cryptocurrency company … \n\n\n\n more…",
+        "url": "https://9to5mac.com/2024/02/12/ftx-customers-money/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/FTX-customers.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-02-12T13:07:00Z",
+        "content": "In a surprise development, bankruptcy lawyers say that FTX customers once considered to have lost almost everything are now expected to get their money back in full from the remains of the cryptocurr… [+1808 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "BeauHD",
+        "title": "LG Washing Machine Found Sending 3.7 GB of Data a Day",
+        "description": "An LG washing machine owner discovered that his smart home appliance was uploading an average of 3.66GB of data daily. \"Concerned about the washer's internet addiction, Johnie forced the device to go cold turkey and blocked it using his router UI,\" reports To…",
+        "url": "https://mobile.slashdot.org/story/24/01/16/2126226/lg-washing-machine-found-sending-37-gb-of-data-a-day",
+        "urlToImage": "https://a.fsdn.com/sd/topics/wireless_64.png",
+        "publishedAt": "2024-01-17T00:45:00Z",
+        "content": "Johnie's initial screenshot showed that on a chosen day, the device uploaded 3.57GB and downloaded about 100MB, and the data traffic was almost constant. Meanwhile, according to the Asus router inter… [+2143 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Coinbase Compares Buying Crypto To Collecting Beanie Babies",
+        "description": "Coinbase said buying cryptocurrency on an exchange was more like collecting Beanie Babies than investing in a stock or bond. From a report: The biggest US crypto exchange made the comparison Wednesday in a New York federal court hearing. Coinbase was arguing …",
+        "url": "https://tech.slashdot.org/story/24/01/18/1753211/coinbase-compares-buying-crypto-to-collecting-beanie-babies",
+        "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+        "publishedAt": "2024-01-18T19:20:00Z",
+        "content": "Sign up for the Slashdot newsletter! OR check out the new Slashdot job board to browse remote jobs or jobs in your areaDo you develop on GitHub? You can keep using GitHub but automatically sync your … [+268 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Alexander Talel",
+        "title": "The SEC Is at the Mercy of the Courts at a Perilous Moment",
+        "description": "A series of cases could challenge the SEC's authority to regulate and enforce a wide scope of American economic life.",
+        "url": "https://time.com/6556215/sec-courts-chevron/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1538379675.jpg?quality=85",
+        "publishedAt": "2024-01-17T11:00:00Z",
+        "content": "For nearly a century, the U.S. Securities and Exchange Commission (SEC) has wielded largely un-checked power over investment mechanics and capital formation. But federal courts are quietly poised to … [+5542 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Frances Yue",
+        "title": "When is bitcoin halving? Here’s what history says about how it may impact the cryptocurrency’s price.",
+        "description": "Investors are closely watching bitcoin’s upcoming halving, which is expected to happen in April, as history has shown the cryptocurrency usually sees significant price appreciation in the wake of halvings.",
+        "url": "https://www.marketwatch.com/story/when-is-bitcoin-halving-heres-what-history-saysabout-how-it-may-impact-the-cryptocurrencys-price-7e7c4ca5",
+        "urlToImage": "https://images.mktw.net/im-96310580/social",
+        "publishedAt": "2024-02-16T19:02:00Z",
+        "content": "Investors are closely watching bitcoins upcoming halving, which is expected to happen in April, as history has shown the cryptocurrency usually sees significant price appreciation in the wake of halv… [+1813 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Brian-Damien Morgan",
+        "title": "U.S. insights company shows ransomware hackers drew in $1bn across 2023",
+        "description": "Ransomware hackers extorted $1bn across 2023, according to data insights company and blockchain platform. The company published a report showing […]\nThe post U.S. insights company shows ransomware hackers drew in $1bn across 2023 appeared first on ReadWrite.",
+        "url": "https://readwrite.com/us-insights-company-shows-ransomware-hackers-drew-in-1bn-across-2023/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2019/10/hacker-2300772_1920.jpg",
+        "publishedAt": "2024-02-09T22:50:01Z",
+        "content": "Ransomware hackers extorted $1bn across 2023, according to data insights company and blockchain platform Chainalysis.\r\nThe company published a report showing the extent of malicious hacking and devel… [+2563 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ReadWrite"
+        },
+        "author": "Graeme Hanna",
+        "title": "Drake bets $1.15M on Kansas City Chiefs inspired by Taylor Swift fans",
+        "description": "Drake had a night to remember after staking a $1.15 million bet on the Kansas City Chiefs to win the […]\nThe post Drake bets $1.15M on Kansas City Chiefs inspired by Taylor Swift fans appeared first on ReadWrite.",
+        "url": "https://readwrite.com/drake-bets-1-15m-on-kansas-city-chiefs-super-bowl-win-inspired-by-taylor-swift-fans/",
+        "urlToImage": "https://readwrite.com/wp-content/uploads/2024/02/drake.jpeg",
+        "publishedAt": "2024-02-12T16:22:45Z",
+        "content": "Drake had a night to remember after staking a $1.15 million bet on the Kansas City Chiefs to win the 2024 Super Bowl.\r\nThe ‘God’s Plan’ rapper announced on Instagram he had placed his bet on the cryp… [+2188 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "The state of Wall Street's drug culture",
+        "description": "In today's big story, we're looking at whether Wall Street has a drug problem.",
+        "url": "https://www.businessinsider.com/news-today-january-19-wall-street-drug-culture-2024-1",
+        "urlToImage": "https://i.insider.com/647a453040bf000019fa15d4?width=1200&format=jpeg",
+        "publishedAt": "2024-01-19T14:26:03Z",
+        "content": "Grant Faint/Getty Images\r\n<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Insider's daily newsletter here.</li></ul>Happy Friday! The internet needs… [+7734 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Cryptocurrency firm Terraform Labs files for bankruptcy in US",
+        "description": "The company, whose co-founder is in jail in Montenegro, was behind the crashed TerraUSD and Luna tokens.",
+        "url": "https://www.bbc.co.uk/news/technology-68055557",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3D17/production/_132393651_7c254e470e2326f409f39d14db03892ae2a54ef6.jpg",
+        "publishedAt": "2024-01-22T14:51:18Z",
+        "content": "The cryptocurrency company behind the crashed TerraUSD and Luna tokens has filed for bankruptcy in the US.\r\nTerraform Labs' tokens collapsed in May, losing $40bn of their value and contributing to th… [+2603 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cracked.com"
+        },
+        "author": "Keegan Kelly",
+        "title": "What Exactly Is Going on With the Mysterious Wesley Snipes, Kelsey Grammer, Saudi Arabia Cryptocurrency Series?",
+        "description": "Every 1990s superstar is in Saudi Arabia shooting the third season of ‘Paper Empire,’ a show that no one has seen",
+        "url": "https://www.cracked.com/article_41003_what-exactly-is-going-on-with-the-mysterious-wesley-snipes-kelsey-grammer-saudi-arabia-cryptocurrency-series.html",
+        "urlToImage": "https://s3.crackedcdn.com/phpimages/article/6/2/8/1020628.jpg",
+        "publishedAt": "2024-02-03T01:05:00Z",
+        "content": "Frasier Crane is filming a cryptocurrency TV show in Saudi Arabia with Wesley Snipes and Jon Lovitz but youll (probably) never see it.\r\nLate last month, the financial crime drama series Paper Empire … [+4683 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "El Salvador's president eyes re-election on back of gang crackdown",
+        "description": "President Nayib Bukele is far ahead of rivals in polls - but not all voters are convinced.",
+        "url": "https://www.bbc.co.uk/news/world-latin-america-68195441",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9CD0/production/_132544104_screenshot2024-02-03202206.jpg",
+        "publishedAt": "2024-02-04T00:50:33Z",
+        "content": "There was no doubting Francisco Villegas' political colours as he stepped off his flight into El Salvador. \r\nDraped in a flag bearing President Nayib Bukele's face, he was dressed in light blue - the… [+6173 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Sawdah Bhaimiya",
+        "title": "The non-profit behind Wikipedia and a crypto exchange are among the top companies for work-from-anywhere jobs, with some paying over $100,000",
+        "description": "FlexJobs analyzed job openings from 60,000 companies in 2023 that offered remote work with zero location restrictions and no time in the office.",
+        "url": "https://www.businessinsider.com/10-companies-work-from-anywhere-roles-some-paying-six-figures-2024-1",
+        "urlToImage": "https://i.insider.com/65b10120617029e90a5fdff8?width=1200&format=jpeg",
+        "publishedAt": "2024-01-28T11:03:01Z",
+        "content": "Working remotely remains popular, particularly among younger workers. Vadym Buinov/Getty Images\r\n<ul><li>Remote work still remains popular despite the pushback from major companies. </li><li>Large co… [+3024 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Theron Mohamed",
+        "title": "Gary Shilling says the S&P 500 may crash 30%, a recession will hit — and bitcoin and AI are both overhyped",
+        "description": "Stocks are poised to disappoint, recession alarms are flashing, and speculation is rife in tech and crypto, says market prophet Gary Shilling.",
+        "url": "https://markets.businessinsider.com/news/stocks/gary-shilling-stock-market-outlook-crash-spx-recession-bitcoin-ai-2024-2",
+        "urlToImage": "https://i.insider.com/65c49f4943bb77284ba4d201?width=1200&format=jpeg",
+        "publishedAt": "2024-02-08T09:36:13Z",
+        "content": "Gary Shilling.A. Gary Shilling & Co.\r\n<ul>\n<li>The S&P 500 may be headed for a 30% crash, a legendary market forecaster has warned.</li>\n<li>Gary Shilling said stocks are \"very expensive and very dis… [+3820 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Theregister.com"
+        },
+        "author": "Lindsay Clark",
+        "title": "Fintech engineer grounded by crypto fraud caper, including $300m spoof trades",
+        "description": "Fourth conviction in South Africa-linked scheme\nThe head of financial engineering at fintech platform Hydrogen Technology has been convicted of manipulating the price of a security and scheming to defraud investors in the company's cryptocurrency, HYDRO.…",
+        "url": "https://www.theregister.com/2024/02/08/hydrogen_technology_engineer_convicted/",
+        "urlToImage": "https://regmedia.co.uk/2016/10/06/fraud.jpg",
+        "publishedAt": "2024-02-08T14:30:07Z",
+        "content": "The head of financial engineering at fintech platform Hydrogen Technology has been convicted of manipulating the price of a security and scheming to defraud investors in the company's cryptocurrency,… [+2088 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "VentureBeat"
+        },
+        "author": "Dean Takahashi",
+        "title": "Saga partners with Netmarble’s MarbleX on Web3 gaming",
+        "description": "Blockchain tech firm Saga and MarbleX, a division of South Korean mobile gaming firm Netmarble, have teamed up to advance Web3 games.",
+        "url": "https://venturebeat.com/games/saga-partners-with-netmarbles-marblex-on-web3-gaming/",
+        "urlToImage": "https://venturebeat.com/wp-content/uploads/2024/01/Saga-MARBLEX-Partnership.jpg?w=1200&strip=all",
+        "publishedAt": "2024-01-31T13:00:00Z",
+        "content": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. \r\nBlockchain tech firm Saga and MarbleX, a division of South Korean mobil… [+3381 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "msmash",
+        "title": "Binance Code and Internal Passwords Exposed on GitHub for Months",
+        "description": "A highly sensitive cache of code, infrastructure diagrams, internal passwords, and other technical information belonging to cryptocurrency giant Binance has been sitting on a publicly accessible GitHub repository for months, 404 Media has learned. From a repo…",
+        "url": "https://tech.slashdot.org/story/24/01/31/1824220/binance-code-and-internal-passwords-exposed-on-github-for-months",
+        "urlToImage": "https://a.fsdn.com/sd/topics/it_64.png",
+        "publishedAt": "2024-01-31T18:25:00Z",
+        "content": "Binance only managed to have GitHub remove the data under a copyright takedown request last week, but not before 404 Media and other people managed to view it. Although there is no public evidence th… [+900 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bitcointalk.org"
+        },
+        "author": null,
+        "title": "The Bitcoin Social Network",
+        "description": "The Bitcoin Social Network",
+        "url": "https://bitcointalk.org/index.php?topic=5482476.0",
+        "urlToImage": null,
+        "publishedAt": "2024-01-21T22:57:40Z",
+        "content": "The Bitcoin Social NetworkA decentralized system is proposed to resolve the escalating transaction costs for Bitcoin transactions, from increasing demand in extra information being saved on the Bitco… [+1224 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techdirt"
+        },
+        "author": "Mike Masnick",
+        "title": "Would You Trust A Cryptocurrency Whose Operator Sues Journalists For Reporting On Lawsuits Calling You A Scam?",
+        "description": "In the fall of 2022 an apparent investor in a cryptocurrency called “Bitcoin Latinum” sued the guy behind the currency, Donald Basile. You can see the whole case here. There has been a bunch of back and forth on the docket, but it appears the remaining partie…",
+        "url": "https://www.techdirt.com/2024/02/12/would-you-trust-a-cryptocurrency-whose-operator-sues-journalists-for-reporting-on-lawsuits-calling-you-a-scam/",
+        "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "publishedAt": "2024-02-12T18:56:14Z",
+        "content": "from the slapp-silly dept\r\nIn the fall of 2022 an apparent investor in a cryptocurrency called Bitcoin Latinum sued the guy behind the currency, Donald Basile. You can see the whole case here. There … [+7220 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Andy Mills",
+        "title": "Why Bitcoin won't reach $1,000,000 but you should buy anyway | What's next for Bitcoin?",
+        "description": "For a look at the future of the cryptocurrency, Quartz talks with Coindesk’s Andy Baehr",
+        "url": "https://qz.com/why-bitcoin-wont-reach-1-000-000-but-you-should-buy-an-1851230435",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/00554241e472f14860593a99fed843d7.jpg",
+        "publishedAt": "2024-02-07T12:00:00Z",
+        "content": "Our free, fast, and fun briefing on the global economy, delivered every weekday morning."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "404media.co"
+        },
+        "author": "Joseph Cox",
+        "title": "The Underground Site Where 'Neural Networks' Churn Out Fake IDs",
+        "description": "The site, called OnlyFake, threatens to streamline everything from bank fraud to money laundering, and has implications for cybersecurity writ large.",
+        "url": "https://www.404media.co/inside-the-underground-site-where-ai-neural-networks-churns-out-fake-ids-onlyfake/",
+        "urlToImage": "https://www.404media.co/content/images/size/w1200/2024/02/ai-fake-id-header-art.png",
+        "publishedAt": "2024-02-05T14:48:05Z",
+        "content": "This piece was produced with support from The Capitol Forum\r\n. \r\nAn underground website called OnlyFake is claiming to use neural networks to generate realistic looking photos of fake IDs for just $1… [+1656 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Phys.Org"
+        },
+        "author": "Eric Hamilton",
+        "title": "Regulation makes crypto markets more efficient, says research",
+        "description": "First-of-its-kind research on cryptocurrency finds that the most regulated coins create the most efficient markets.",
+        "url": "https://phys.org/news/2024-02-crypto-efficient.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2020/cryptocurren.jpg",
+        "publishedAt": "2024-02-01T20:55:15Z",
+        "content": "First-of-its-kind research on cryptocurrency finds that the most regulated coins create the most efficient markets.\r\nThat crypto regulation, often provided by cryptocurrency exchanges like Binance, c… [+2979 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rock Paper Shotgun"
+        },
+        "author": "Alice O'Connor",
+        "title": "Screenshot Saturday Mondays: Cutting through the crypto spam",
+        "description": "Every weekend, indie devs show off current work on Twitter's #screenshotsaturday tag. And every Monday, I bring you a selection of these snaps and clips. This week, my eye was caught by dozens upon dozens of spam accounts hijacking the tag to promote cryptocu…",
+        "url": "https://www.rockpapershotgun.com/screenshot-saturday-mondays-cutting-through-the-crypto-spam",
+        "urlToImage": "https://assetsio.reedpopcdn.com/CQVM1pelvtLyt4TI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2024-01-22T14:06:17Z",
+        "content": "Every weekend, indie devs show off current work on Twitter's #screenshotsaturday tag. And every Monday, I bring you a selection of these snaps and clips. This week, my eye was caught by dozens upon d… [+3040 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Frances Yue",
+        "title": "Bitcoin had a nice 2023. Why smaller crypto assets could now see bigger gains.",
+        "description": "A weekly look at the most important moves and news in crypto and what's on the horizon in digital assets.",
+        "url": "https://www.marketwatch.com/story/bitcoin-had-a-nice-2023-why-smaller-crypto-assets-could-now-see-bigger-gains-788dcffc",
+        "urlToImage": "https://images.mktw.net/im-783732/social",
+        "publishedAt": "2024-01-17T21:11:00Z",
+        "content": "Welcome back to Distributed Ledger. This is Frances Yue, crypto and markets reporter at MarketWatch.Bitcoin \r\n BTCUSD,\r\n -1.67%\r\nrallied over 150% in 2023, as the worlds largest cryptocurrency by mar… [+3513 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Krebs on Security"
+        },
+        "author": "BrianKrebs",
+        "title": "Arrests in $400M SIM-Swap Tied to Heist at FTX?",
+        "description": "Three Americans were charged this week with stealing more than $400 million in a November 2022 SIM-swapping attack. The U.S. government did not name the victim organization, but there is every indication that the money was stolen from the now-defunct cryptocu…",
+        "url": "https://krebsonsecurity.com/2024/02/arrests-in-400m-sim-swap-tied-to-heist-at-ftx/",
+        "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2024/02/elliptic-ftx.png",
+        "publishedAt": "2024-02-01T18:41:37Z",
+        "content": "Three Americans were charged this week with stealing more than $400 million in a November 2022 SIM-swapping attack. The U.S. government did not name the victim organization, but there is every indica… [+6234 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "finbold.com",
+        "title": "Is Andrew Tate launching his own cryptocurrency?",
+        "description": "As the cryptocurrency industry continues to grow, many popular individuals are jumping on the bandwagon, including social media personality and former professional kickboxer Andrew Tate, who might be planning to go a step further – launching his own cryptocur…",
+        "url": "https://biztoc.com/x/70f971d555ab54e6",
+        "urlToImage": "https://c.biztoc.com/p/70f971d555ab54e6/s.webp",
+        "publishedAt": "2024-02-02T09:32:11Z",
+        "content": "As the cryptocurrency industry continues to grow, many popular individuals are jumping on the bandwagon, including social media personality and former professional kickboxer Andrew Tate, who might be… [+309 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Frances Yue",
+        "title": "Jamie Dimon still sees no value in bitcoin after ETFs debut: ‘please stop talking about this s___’",
+        "description": "Jamie Dimon, chief executive at JPMorgan Chase & Co. JPM, said he still sees no value in bitcoin and is done with talking about the crypto, after the first several bitcoin exchange traded funds debuted in the U.S. last week.",
+        "url": "https://www.marketwatch.com/story/jamie-dimon-still-sees-no-value-in-bitcoin-after-etfs-debut-please-stop-talking-about-this-s-949b7c54",
+        "urlToImage": "https://images.mktw.net/im-05670152/social",
+        "publishedAt": "2024-01-17T16:39:00Z",
+        "content": "Jamie Dimon, chief executive at JPMorgan Chase &amp; Co. \r\n JPM,\r\n +0.12%\r\n,\r\n said he still sees no value in bitcoin and is done with talking about the crypto, after the first several bitcoin exchan… [+1593 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Amber Gray-Fenner, Contributor, \n Amber Gray-Fenner, Contributor\n https://www.forbes.com/sites/ambergray-fenner/",
+        "title": "Cryptocurrency Users Relieved As IRS Delays Form 8300 Reporting",
+        "description": "Businesses who accept cryptocurrency as payment were relieved to hear that the IRS has delayed the requirement for reporting digital asset transactions that exceed $10...",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/01/25/cryptocurrency-users-relieved-as-irs-delays-form-8300-reporting/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65b189550cf0e8844b4c0beb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-01-25T14:25:27Z",
+        "content": "New IRS guidance delays Form 8300 reporting for digital asset transactions.\r\ngetty\r\nBusinesses who accept cryptocurrency as payment were relieved to hear that the IRS has delayed the requirement for … [+4778 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Charles Lloyd Bovaird II, Senior Contributor, \n Charles Lloyd Bovaird II, Senior Contributor\n https://www.forbes.com/sites/cbovaird/",
+        "title": "Ether Flirts With $2,400 Level—What’s Next For The Cryptocurrency?",
+        "description": "What's next for ether prices after the cryptocurrency approached $2,400 and then traded close to that level?",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/02/06/ether-flirts-with-2400-level-whats-next-for-the-cryptocurrency/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c3081fa467de4cfd7067cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-07T04:36:21Z",
+        "content": "Technical analysts identified key support and resistance levels as ether fluctuated near $2,400. \r\ngetty\r\nEther prices have rallied lately, climbing over the last week and fluctuating close to the $2… [+3196 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "kottke.org"
+        },
+        "author": "Jason Kottke",
+        "title": "Numberphile: “A Sudoku Secret to Blow Your Mind”",
+        "description": "I am not a sudoku player but I do appreciate the logical nature of the game, so Numberphile’s explanation of a simple patt",
+        "url": "https://kottke.org/24/01/numberphile-a-sudoku-secret-to-blow-your-mind",
+        "urlToImage": "https://i.ytimg.com/vi/pezlnN4X52g/sddefault.jpg",
+        "publishedAt": "2024-01-18T23:44:34Z",
+        "content": "I am not a sudoku player but I do appreciate the logical nature of the game, so Numberphile’s explanation of a simple pattern hidden in every single sudoku puzzle was pretty satisfying.\n\nBut really, … [+556 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Krebs on Security"
+        },
+        "author": "BrianKrebs",
+        "title": "Fla. Man Charged in SIM-Swapping Spree is Key Suspect in Hacker Groups Oktapus, Scattered Spider",
+        "description": "On Jan. 9, 2024, U.S. authorities arrested a 19-year-old Florida man charged with wire fraud, aggravated identity theft, and conspiring with others to use SIM-swapping to steal cryptocurrency. Sources close to the investigation tell KrebsOnSecurity the accuse…",
+        "url": "https://krebsonsecurity.com/2024/01/fla-man-charged-in-sim-swapping-spree-is-key-suspect-in-hacker-groups-oktapus-scattered-spider/",
+        "urlToImage": "https://krebsonsecurity.com/wp-content/uploads/2024/01/noahmichaelurban.png",
+        "publishedAt": "2024-01-30T19:07:18Z",
+        "content": "On Jan. 9, 2024, U.S. authorities arrested a 19-year-old Florida man charged with wire fraud, aggravated identity theft, and conspiring with others to use SIM-swapping to steal cryptocurrency. Source… [+13104 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "Inside Tesla's make-or-break earnings report",
+        "description": "In today's big story, we're previewing Tesla's make-or-break earnings report.",
+        "url": "https://www.businessinsider.com/tesla-earnings-whats-next-preview-elon-musk-2024-1",
+        "urlToImage": "https://i.insider.com/65b0f6cd617029e90a5fdc13?width=1200&format=jpeg",
+        "publishedAt": "2024-01-24T13:17:24Z",
+        "content": "Justin Sullivan/Getty Images\r\n<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Insider's daily newsletter here.</li></ul>Hey there! We seem well on o… [+7278 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Cork Gaines",
+        "title": "A semi-retired couple moved to Puerto Rico for an adventure and some tax benefits, but a healthcare crisis may soon change their plans",
+        "description": "There are financial incentives for people looking to retire in Puerto Rico, but there are also some downsides.",
+        "url": "https://www.businessinsider.com/retire-puerto-rico-tax-benefits-healthcare-residency-requirements-real-estate-2024-1",
+        "urlToImage": "https://i.insider.com/65a983addcdb354a9858b958?width=1200&format=jpeg",
+        "publishedAt": "2024-01-19T15:37:56Z",
+        "content": "Sean Flynn and Sarah Lindsey semi-retired and moved to Puerto RicoSarah Lindsey\r\n<ul><li>Moving to Puerto Rico comes with some nice financial perks.</li><li>Most of the advantages may only be seen by… [+7008 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "404media.co"
+        },
+        "author": "Joseph Cox",
+        "title": "How A Single 'Pig Butchering' Scam Netted $40 Million",
+        "description": "Pig butchering scams — in which fraudsters continuously extract money from a target — are a multibillion-dollar epidemic. Court records show that just one scam operation can make at least tens of millions of dollars.",
+        "url": "https://www.404media.co/how-a-single-pig-butchering-scam-netted-40-million/",
+        "urlToImage": "https://www.404media.co/content/images/size/w1200/2024/01/bitcoinpig.png",
+        "publishedAt": "2024-01-30T16:06:28Z",
+        "content": "This article was produced in collaboration with Court Watch\r\n, an independent outlet that unearths overlooked court records.\r\nA pig butchering scam ringwhere fraudsters often trick a target into funn… [+1200 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Indian Express"
+        },
+        "author": "Express News Service",
+        "title": "Bitcoin scam: 2 Bengaluru cryptocurrency exchange founders seek bail after cyber expert’s arrest",
+        "description": "The SIT is investigating the Bitcoin scam dating to the 2020-21 period when the BJP was in power in Karnataka.",
+        "url": "https://indianexpress.com/article/cities/bangalore/bitcoin-scam-bengaluru-cryptocurrency-exchange-founders-bail-cyber-experts-arrest-9143326/",
+        "urlToImage": "https://images.indianexpress.com/2024/02/bitcoin-arrest-bails.jpg",
+        "publishedAt": "2024-02-04T04:29:10Z",
+        "content": "The founders of a cryptocurrency exchange in Bengaluru, whose services were utilised by the city police in 2021 to validate the disappearance of 31 Bitcoins transferred to a police wallet after they … [+8089 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techmeme.com"
+        },
+        "author": null,
+        "title": "UK prosecutors say the Met Police seized 61K bitcoin, worth £1.4B+, in 2018, as part of a trial over an alleged ~£5B investment fraud in China between 2014-2017 (Eri Sugiura/Financial Times)",
+        "description": "Eri Sugiura / Financial Times:\nUK prosecutors say the Met Police seized 61K bitcoin, worth £1.4B+, in 2018, as part of a trial over an alleged ~£5B investment fraud in China between 2014-2017  —  One of the world's largest seizures revealed during trial of wo…",
+        "url": "https://www.techmeme.com/240131/p20",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Ff32bcd89-5689-4df0-9b2d-d8a27d09d95a.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2024-01-31T13:10:01Z",
+        "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 8:20 AM ET, January 31, 2024.\r\nThe most current version of the site as always is available at our home page.\r\nTo v… [+70 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "benzinga.com",
+        "title": "Human Unitec International Inc Corporate Status on Cryptocurrency",
+        "description": "HUDSON, N.Y., Feb. 05, 2024 (GLOBE NEWSWIRE) -- Human Unitec International, Inc., HMNU (\"HMNU\"), is a Project Finance, Management & Development Company for Sustainability, Medical, Wellness, and Green Energy, announces completion of Asset Purchase and Joint V…",
+        "url": "https://biztoc.com/x/c9d8429a28f8567e",
+        "urlToImage": "https://c.biztoc.com/266/og.png",
+        "publishedAt": "2024-02-05T17:38:12Z",
+        "content": "HUDSON, N.Y., Feb. 05, 2024 (GLOBE NEWSWIRE) -- Human Unitec International, Inc., HMNU (\"HMNU\"), is a Project Finance, Management &amp; Development Company for Sustainability, Medical, Wellness, and … [+313 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coingape.com",
+        "title": "10 Best Cryptocurrency Exchanges for Day Trading in 2024",
+        "description": "Good mobile support to trade from anywhere StormGain is a comprehensive crypto trading platform that offers exchange services, wallet storage, mining, and DeFi services. It supports spot trading for numerous cryptocurrencies. It also provides an integrated wa…",
+        "url": "https://biztoc.com/x/1afe12afa101b453",
+        "urlToImage": "https://c.biztoc.com/p/1afe12afa101b453/s.webp",
+        "publishedAt": "2024-01-31T06:38:25Z",
+        "content": "Good mobile support to trade from anywhere StormGain is a comprehensive crypto trading platform that offers exchange services, wallet storage, mining, and DeFi services. It supports spot trading for … [+260 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "kdvr.com",
+        "title": "Denver pastor admits he pocketed $1.3M in alleged cryptocurrency scheme",
+        "description": "A Denver pastor admitted that he and his wife pocketed $1.3 million from customers of an online cryptocurrency exchange targeted to Christians, according to a video posted on his website late last week. The admission came after the Colorado Securities Commiss…",
+        "url": "https://biztoc.com/x/7d90b679799479d9",
+        "urlToImage": "https://c.biztoc.com/p/7d90b679799479d9/og.webp",
+        "publishedAt": "2024-01-24T05:20:10Z",
+        "content": "A Denver pastor admitted that he and his wife pocketed $1.3 million from customers of an online cryptocurrency exchange targeted to Christians, according to a video posted on his website late last we… [+287 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "investorplace.com",
+        "title": "3 Stocks to Sell as the Cryptocurrency Craze Fades",
+        "description": "Investors may want to cut these stocks from their portfolios now Anticipating the U.S. Securities and Exchange Commission (SEC) approval of a Bitcoin ( ) ETF, the digital currency exploded from an October low of about $25,000 to a high of $49,954. Investors w…",
+        "url": "https://biztoc.com/x/7f6c0a62f0a11320",
+        "urlToImage": "https://c.biztoc.com/p/7f6c0a62f0a11320/s.webp",
+        "publishedAt": "2024-01-23T20:14:34Z",
+        "content": "Investors may want to cut these stocks from their portfolios nowAnticipating the U.S. Securities and Exchange Commission (SEC) approval of a Bitcoin ( ) ETF, the digital currency exploded from an Oct… [+293 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "news.bitcoin.com",
+        "title": "SEC, DOJ Charge Individuals in $1.9 Billion Hyperfund Cryptocurrency Fraud",
+        "description": "The SEC alongside the DOJ, has levied serious charges against key figures in a $1.9 billion cryptocurrency fraud scheme involving Hyperfund. SEC and DOJ Crack Down on $1.9 Billion Hyperfund Crypto Fraud The U.S. Securities and Exchange Commission (SEC) and th…",
+        "url": "https://biztoc.com/x/9bcd967e58651fe1",
+        "urlToImage": "https://c.biztoc.com/p/9bcd967e58651fe1/s.webp",
+        "publishedAt": "2024-01-31T09:34:08Z",
+        "content": "The SEC alongside the DOJ, has levied serious charges against key figures in a $1.9 billion cryptocurrency fraud scheme involving Hyperfund.SEC and DOJ Crack Down on $1.9 Billion Hyperfund Crypto Fra… [+305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Spacebar.news"
+        },
+        "author": "Corbin Davenport",
+        "title": "Stop Using Opera Browser and Opera GX",
+        "description": "Opera used to be a fantastic web browser, with a custom high-performance Presto rendering engine and features like tabbed windows that didn't show up in competing browsers until years later. However, the modern Opera browser is a shadow of its former self, re…",
+        "url": "https://www.spacebar.news/stop-using-opera-browser/",
+        "urlToImage": "https://www.spacebar.news/content/images/size/w1200/2024/01/operano.jpg",
+        "publishedAt": "2024-01-24T22:31:05Z",
+        "content": "Opera used to be a fantastic web browser, with a custom high-performance Presto rendering engine and features like tabbed windows that didn't show up in competing browsers until years later. However,… [+13513 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techmeme.com"
+        },
+        "author": null,
+        "title": "IAE: electricity used by data centers, crypto, and AI may more than double in the next three years; Irish data centers will use 32% of its electricity by 2026 (Eamon Farhat/Bloomberg)",
+        "description": "Eamon Farhat / Bloomberg:\nIAE: electricity used by data centers, crypto, and AI may more than double in the next three years; Irish data centers will use 32% of its electricity by 2026  —  - Cryptocurrency, AI to dominate demand, IEA report finds  — Increase …",
+        "url": "https://www.techmeme.com/240124/p16",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idct9U3x825M/v1/1200x800.jpg",
+        "publishedAt": "2024-01-24T11:50:01Z",
+        "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 6:50 AM ET, January 24, 2024.\r\nThe most current version of the site as always is available at our home page.\r\nTo v… [+70 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Techmeme.com"
+        },
+        "author": null,
+        "title": "The US DOJ and SEC unveil charges in an alleged $1.9B crypto fraud scheme known as HyperFund (Dan Mangan/CNBC)",
+        "description": "Dan Mangan / CNBC:\nThe US DOJ and SEC unveil charges in an alleged $1.9B crypto fraud scheme known as HyperFund  —  - The Department of Justice announced criminal charges against two people and the guilty plea of a third person for orchestrating a $1.9 billio…",
+        "url": "https://www.techmeme.com/240129/p32",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107259521-1687284293649-gettyimages-1500057188-kd_15119_g3x6uzaw.jpeg?v=1706570364&w=1920&h=1080",
+        "publishedAt": "2024-01-30T00:05:02Z",
+        "content": "About This Page\r\nThis is a Techmeme archive page.\r\nIt shows how the site appeared at 7:05 PM ET, January 29, 2024.\r\nThe most current version of the site as always is available at our home page.\r\nTo v… [+154 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Grist"
+        },
+        "author": "Akielly Hu",
+        "title": "Bitcoin mining uses a lot of energy. The US government is about to find out how much.",
+        "description": "A new federal initiative will shed light on the opaque and rapidly growing cryptocurrency mining industry.",
+        "url": "http://grist.org/technology/bitcoin-mining-uses-a-lot-of-energy-the-us-government-is-about-to-find-out-how-much/",
+        "urlToImage": "https://grist.org/wp-content/uploads/2024/02/bitcoin-mine.jpg?quality=75&strip=all",
+        "publishedAt": "2024-02-08T09:15:00Z",
+        "content": "In 2021, when China banned bitcoin and other cryptocurrencies, crypto miners flocked to the United States in search of cheap electricity and looser regulations. In a few short years, the U.S.s share … [+7000 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Anthony Orlando",
+        "title": "3 underrated 2023 TV shows on Hulu you need to watch in 2024",
+        "description": "Hulu added many new shows to its library in 2023, and there are some new titles from the previous year that people should see or give a second chance in 2024.",
+        "url": "https://www.digitaltrends.com/movies/3-underrated-2023-tv-shows-on-hulu-you-need-to-watch-in-2024/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/02/history-of-the-world-part-2.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2024-01-22T13:30:08Z",
+        "content": "Hulu\r\nAs Hulu continues to stand its ground in the ongoing streaming wars, subscribers are regularly treated to plenty of popular and top-quality TV shows on the platform. But for every beloved show … [+3465 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Laura Bratton",
+        "title": "\"Bitcoin Beautee\" is pleading guilty to her role in a $2 billion crypto Ponzi scheme",
+        "description": "Brenda Chunga, known online as “Bitcoin Beautee,” was the American face of an Australian Ponzi scheme called HyperFund.Read more...",
+        "url": "https://qz.com/cryptocurrency-crypto-bitcoin-fraud-hyperfund-ftx-sam-b-1851209134",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/67f64876da26c0a21a3f4fabd141a9a8.jpg",
+        "publishedAt": "2024-01-30T17:46:00Z",
+        "content": "Brenda Chunga, known online as Bitcoin Beautee, was the American face of an Australian Ponzi scheme called HyperFund.\r\nChunga made nearly $4 million promoting the schemewhich defrauded investors acro… [+1988 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Melvin Backman",
+        "title": "All the bitcoin on Earth is worth $1 trillion again",
+        "description": "Bitcoin keeps on rising. The cryptocurrency’s price is knocking on $52,000, the highest level since June 2021. That’s enough to send its market capitalization above $1 trillion.Read more...",
+        "url": "https://qz.com/bitcoin-etfs-crypto-1-trillion-1851255727",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2675ec3660af3940df41ebfd5ed3d402.jpg",
+        "publishedAt": "2024-02-14T15:55:00Z",
+        "content": "Bitcoin keeps on rising. The cryptocurrencys price is knocking on $52,000, the highest level since June 2021. Thats enough to send its market capitalization above $1 trillion.\r\nThe market has shaken … [+1074 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Americanthinker.com"
+        },
+        "author": null,
+        "title": "Is Cryptocurrency Sound Money?",
+        "description": "Sound money is any form of globally recognized currency that can function as a stable and reliable store of value. Even under this simplistic definition, it becomes difficult to continue recognizing mainstream currencies as sound, due to manipulation...",
+        "url": "https://www.americanthinker.com/articles/2024/01/is_cryptocurrency_sound_money.html",
+        "urlToImage": "https://www.americanthinker.com/images/bucket/2024-01/251721.jpg",
+        "publishedAt": "2024-01-27T06:00:00Z",
+        "content": "Sound money is any form of globally recognized currency that can function as a stable and reliable store of value. Even under this simplistic definition, it becomes difficult to continue recognizing … [+5626 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BleepingComputer"
+        },
+        "author": "Sergiu Gatlan",
+        "title": "New Linux glibc flaw lets attackers get root on major distros",
+        "description": "​Unprivileged attackers can get root access on multiple major Linux distributions in default configurations by exploiting a newly disclosed local privilege escalation (LPE) vulnerability in the GNU C Library (glibc).",
+        "url": "https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/",
+        "urlToImage": "https://www.bleepstatic.com/content/hl-images/2023/06/22/Linux.jpg",
+        "publishedAt": "2024-02-04T13:35:38Z",
+        "content": "​Unprivileged attackers can get root access on multiple major Linux distributions in default configurations by exploiting a newly disclosed local privilege escalation (LPE) vulnerability in the GNU C… [+3238 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Mary-Elisabeth Combs",
+        "title": "Tax Season 2024: These 6 Tax Mistakes Could Trigger an IRS Audit - CNET",
+        "description": "If you want to avoid a review of your tax accounts this year (or any year), check out these common tax mistakes that could land you in hot water.",
+        "url": "https://www.cnet.com/personal-finance/taxes/tax-season-2024-these-6-tax-mistakes-could-trigger-an-irs-audit/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/d1bc0429a865a0cea4b6d02a9b9019fe694a522d/hub/2023/02/14/5c01f88e-56c8-4767-b5b4-b573afcd1f4f/gettyimages-483991029.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-02-07T09:10:03Z",
+        "content": "This tax season, with a boost in funding, the IRS said it's adding staff and technology to \"reverse the historic low audit rates\" on high-income taxpayers. Tax season can already be a stressful time,… [+7905 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yanko Design"
+        },
+        "author": "JC Torres",
+        "title": "Smart piggy bank concept brings the Bitcoin feeling to physical coins",
+        "description": "Smart piggy bank concept brings the Bitcoin feeling to physical coinsCryptocurrencies like Bitcoin and its cousins were supposed to revolutionize the way the world sees and uses money, but it will take more than just...",
+        "url": "https://www.yankodesign.com/2024/02/08/smart-piggy-bank-concept-brings-the-bitcoin-feeling-to-physical-coins/",
+        "urlToImage": "https://www.yankodesign.com/images/design_news/2024/02/smart-piggy-bank-concept-brings-the-bitcoin-feeling-to-physical-coins/smart-piggy-bank-concept-3.jpg",
+        "publishedAt": "2024-02-08T12:40:51Z",
+        "content": "Cryptocurrencies like Bitcoin and its cousins were supposed to revolutionize the way the world sees and uses money, but it will take more than just a few revolutionary ideas to change a system that h… [+2443 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Victoria Chynoweth, Contributor, \n Victoria Chynoweth, Contributor\n https://www.forbes.com/sites/victoriachynoweth/",
+        "title": "Future Of Energy: How Solar Power Is Fueling The Cryptocurrency Boom",
+        "description": "There have been concerted efforts to make solar energy more viable, with some conglomerates already setting up mining operations that harness the power of the sun.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/02/01/future-of-energy-how-solar-power-is-fueling-the-cryptocurrency-boom/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bbe3867ff3c2a959ee77f8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-01T18:32:58Z",
+        "content": "HILLSBOROUGH, NJ - JULY 15: Employees of SunEdison install photovoltaic solar panels on the roof of ... [+] a Kohl's Department Store on July 15, 2008 in Hillsborough, New Jersey. (Photo by Robert Ni… [+9427 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coinpedia.org",
+        "title": "Binance to Sell GOPAX Shares Due to Regulatory Challenges",
+        "description": "Qadir Ak is the founder of Coinpedia. He has over a decade of experience writing about technology and has been covering the blockchain and cryptocurrency space since 2010. He has also interviewed a few prominent experts within the cryptocurrency space. Binanc…",
+        "url": "https://biztoc.com/x/b0c4afafe2c72662",
+        "urlToImage": "https://c.biztoc.com/p/b0c4afafe2c72662/s.webp",
+        "publishedAt": "2024-02-07T13:20:49Z",
+        "content": "Qadir Ak is the founder of Coinpedia. He has over a decade of experience writing about technology and has been covering the blockchain and cryptocurrency space since 2010. He has also interviewed a f… [+281 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coinjournal.net",
+        "title": "Cryptocurrencies are back and Bitcoin Dogs could benefit",
+        "description": "Cryptocurrency prices have staged a strong comeback in the past few days. Bitcoin has surged to over $47,000 while the fear and greed index has moved to greed. Bitcoin Dogs, a new cryptocurrency, will likely benefit with this trend. Cryptocurrency prices fina…",
+        "url": "https://biztoc.com/x/8a6006e51286d3e5",
+        "urlToImage": "https://c.biztoc.com/p/8a6006e51286d3e5/s.webp",
+        "publishedAt": "2024-02-10T15:30:12Z",
+        "content": "Cryptocurrency prices have staged a strong comeback in the past few days.Bitcoin has surged to over $47,000 while the fear and greed index has moved to greed.Bitcoin Dogs, a new cryptocurrency, will … [+291 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Infosecurity Magazine"
+        },
+        "author": "Phil Muncaster",
+        "title": "Illicit Cryptocurrency Flows Drop 39% in 2023",
+        "description": "Chainalysis data shows major drop in value of funds received into underground crypto addresses in 2023, to $24.2bn",
+        "url": "https://www.infosecurity-magazine.com/news/illicit-cryptocurrency-flows-drop/",
+        "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/f3f110d5-34cb-42d9-82a7-f603c61bca97.jpeg",
+        "publishedAt": "2024-01-18T14:00:00Z",
+        "content": "The value of cryptocurrency flowing into illicit addresses in 2023 was nearly two-fifths lower than the figure a year previously, with sanctioned entities accounting for the vast majority of activity… [+3227 chars]"
+      },
+      {
+        "source": {
+          "id": "techradar",
+          "name": "TechRadar"
+        },
+        "author": "Sead Fadilpašić",
+        "title": "MacOS users are being targeted with dangerous malware once again",
+        "description": "New piece of malware is hiding in cracked macOS software, looking to steal your cryptocurrency.",
+        "url": "https://www.techradar.com/pro/security/macos-users-are-being-targeted-with-dangerous-malware-once-again",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/aNSyW6WY7t2j9fMrzaPPVb-1200-80.jpeg",
+        "publishedAt": "2024-01-23T17:41:41Z",
+        "content": "Here is another reason why you shouldn’t download cracked or pirated software to your macOS devices - there’s malware hiding within.\r\nCybersecurity researchers from Kaspersky are warning of a new pie… [+1813 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Trump Calls Central Bank Digital Currency ‘Very Dangerous’—After Vowing To Prohibit Fed’s ‘Digital Dollar’",
+        "description": "Trump owns $3 million in cryptocurrency and has a line of NFTs.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/02/02/trump-calls-central-bank-digital-currency-very-dangerous-after-vowing-to-prohibit-feds-digital-dollar/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bd33290fc5f6bf836d428f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-02T18:25:31Z",
+        "content": "Former President Donald Trump expressed heavy skepticism about the security of a central bank digital currency (CBDC), which he has vowed to block, in an interview released Friday, though he personal… [+4057 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coingape.com",
+        "title": "Cryptocurrency Price Forecast: How Bitcoin, Ethereum, Solana, and Other Top Coins Will Perform in 2024",
+        "description": "Cryptocurrencies have been trending higher since late Wednesday, with Bitcoin price leading its peers backed by a break above $44,000. Investors welcomed this move with open arms, affirming positive sentiment in the market. Altcoins are also waking up after w…",
+        "url": "https://biztoc.com/x/96c313ca19c806f3",
+        "urlToImage": "https://c.biztoc.com/p/96c313ca19c806f3/s.webp",
+        "publishedAt": "2024-02-08T13:06:11Z",
+        "content": "Cryptocurrencies have been trending higher since late Wednesday, with Bitcoin price leading its peers backed by a break above $44,000. Investors welcomed this move with open arms, affirming positive … [+265 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "cnbc.com",
+        "title": "Bitcoin regains $1 trillion market cap as the cryptocurrency hits over two-year high",
+        "description": "The value of all the bitcoin in circulation, or market capitalization, on Wednesday rose above $1 trillion for the first time since late 2021, according to CoinMarketCap data. The cryptocurrency also broke through the $51,000 level during the day, marking the…",
+        "url": "https://biztoc.com/x/19f856bcdca709fd",
+        "urlToImage": "https://c.biztoc.com/p/19f856bcdca709fd/s.webp",
+        "publishedAt": "2024-02-14T11:40:05Z",
+        "content": "The value of all the bitcoin in circulation, or market capitalization, on Wednesday rose above $1 trillion for the first time since late 2021, according to CoinMarketCap data.The cryptocurrency also … [+227 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "dailyhodl.com",
+        "title": "US Government Announces New Probe Into Cryptocurrency Mining Operations in the United States",
+        "description": "The U.S. Energy Information Administration (EIA) is announcing that it will be carefully examining crypto mining operations in the country. In a recent press release, the EIA, a statistical and analytical agency within the U.S. Department of Energy, says that…",
+        "url": "https://biztoc.com/x/23ad9c8ed01c3797",
+        "urlToImage": "https://c.biztoc.com/p/23ad9c8ed01c3797/s.webp",
+        "publishedAt": "2024-02-04T18:04:09Z",
+        "content": "The U.S. Energy Information Administration (EIA) is announcing that it will be carefully examining crypto mining operations in the country.In a recent press release, the EIA, a statistical and analyt… [+278 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Charles Lloyd Bovaird II, Senior Contributor, \n Charles Lloyd Bovaird II, Senior Contributor\n https://www.forbes.com/sites/cbovaird/",
+        "title": "Solana Prices Rallied Today, Outperforming The Crypto Markets. What Drove These Gains?",
+        "description": "Solana experienced more robust gains than other major digital currencies today as the broader cryptocurrency market rallied.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/01/26/solana-prices-rallied-today-outperforming-the-crypto-markets-what-drove-these-gains/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/613a4cc4673db99e0a37aa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-01-27T04:55:04Z",
+        "content": "Solana outperformed bitcoin and many other major cryptocurrencies today. 3d illustration.\r\ngetty\r\nSolana prices pushed higher today, experiencing more robust gains than other major digital currencies… [+2846 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Charles Lloyd Bovaird II, Senior Contributor, \n Charles Lloyd Bovaird II, Senior Contributor\n https://www.forbes.com/sites/cbovaird/",
+        "title": "What's Next For Bitcoin As It Trades Near $45,000?",
+        "description": "What's next for bitcoin as the major cryptocurrency fluctuates very close to $45,000? Several technical analysts weigh in.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/02/07/whats-next-for-bitcoin-as-it-trades-near-45000/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c450a399b2cbd1de05837f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-08T04:00:03Z",
+        "content": "Several market observers offered technical analysis as bitcoin trades near $45,000. (Photo by Thomas ... [+] Trutschel/Photothek via Getty Images)\r\nPhotothek via Getty Images\r\nBitcoin prices approach… [+2706 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Lukas I. Alpert",
+        "title": "‘It was just a facade’: USI Tech CEO charged with stealing $150 million in crypto scam",
+        "description": "Horst Jicha promoted USI Tech as a high-yield investment scheme for crypto newbies, but prosecutors say it was a fraud.",
+        "url": "https://www.marketwatch.com/story/it-was-just-a-facade-usi-tech-ceo-charged-with-stealing-150-million-in-crypto-scam-30b058c8",
+        "urlToImage": "https://images.mktw.net/im-87869880/social",
+        "publishedAt": "2024-01-19T19:00:00Z",
+        "content": "The telltale warning to investors in crypto-investment platform USI Tech should have been when its chief executive, Horst Jicha, told them: Now you might be thinking this is too good to be true.Feder… [+3650 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Charles Lloyd Bovaird II, Senior Contributor, \n Charles Lloyd Bovaird II, Senior Contributor\n https://www.forbes.com/sites/cbovaird/",
+        "title": "Solana Prices Break Through $100, Climbing 30% In A Week",
+        "description": "Solana prices surpassed $100 today, breaking through this psychologically important level as the cryptocurrency extended its recent gains.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/01/30/solana-prices-break-through-100-climbing-30-in-a-week/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65b886db49916b852fd28279/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-01-30T05:36:17Z",
+        "content": "Solana prices recently surpassed the crucial $100 level. \r\ngetty\r\nSolana prices surpassed $100 recently, breaking through this psychologically important level as the cryptocurrency extended its recen… [+2717 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Larry Light, Senior Contributor, \n Larry Light, Senior Contributor\n https://www.forbes.com/sites/lawrencelight/",
+        "title": "Forget The Hype: Avoid Bitcoin, Even If It Is Easier To Buy Now",
+        "description": "The advent of exchange-traded funds for the leading cryptocurrency has helped widen its appeal. That's dangerous, says advisor Kahler.",
+        "url": "https://www.forbes.com/sites/lawrencelight/2024/02/11/forget-the-hype-avoid-bitcoin-even-if-it-is-easier-to-buy-now/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c92835927db5eebe48c998/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-11T20:12:40Z",
+        "content": "Bitcoin balloon\r\ngetty\r\nOver the past 12 months, bitcoin has almost doubled in price. The advent of exchange-traded funds for the leading cryptocurrency has helped. But as bitcoin and its kin are not… [+4452 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Shehan Chandrasekera, Senior Contributor, \n Shehan Chandrasekera, Senior Contributor\n https://www.forbes.com/sites/shehanchandrasekera/",
+        "title": "How To Stay Out Of IRS Trouble As BTC Approaches All Time High",
+        "description": "Remember these six tips to stay out of IRS trouble if you own cryptocurrency like bitcoin in this bull market.",
+        "url": "https://www.forbes.com/sites/shehanchandrasekera/2024/02/14/how-to-stay-out-of-irs-trouble-as-btc-approaches-all-time-high/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65ccf6a7b508af8a3f99df43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-14T17:44:17Z",
+        "content": "PARIS, FRANCE - JUNE 25: In this photo illustration, a visual representation of the digital ... [+] Cryptocurrency, Bitcoin is displayed in front of the Bitcoin course's graph on June 25, 2019 in Par… [+3542 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "US regulator admits cyber-security lapse before rogue Bitcoin post",
+        "description": "Regulator admits key security procedure on X account was suspended six months before it was hacked.",
+        "url": "https://www.bbc.co.uk/news/technology-68025683",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85DB/production/_132376243_mediaitem132376241.jpg",
+        "publishedAt": "2024-01-23T13:27:32Z",
+        "content": "The US financial regulator has confirmed a key security procedure on its X account had been suspended for six months when hackers made a fake post about Bitcoin in January.\r\nThe cryptocurrency surged… [+2455 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PC Gamer"
+        },
+        "author": "andy.chalk@pcgamer.com (Andy Chalk)",
+        "title": "Take-Two Interactive says in-game currencies are 'fictions' that players can't actually own",
+        "description": "It almost makes cryptocurrency sound like a good idea.",
+        "url": "https://www.pcgamer.com/take-two-interactive-says-in-game-currencies-are-fictions-that-players-cant-actually-own/",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/bQ98AFrA6yUK5fmSpnztmG-1200-80.jpg",
+        "publishedAt": "2024-02-08T21:24:33Z",
+        "content": "You might pay real money for in-game currency, but Take-Two Interactive says that doesn't make it real: In a filing seeking the dismissal of a lawsuit alleging \"civil theft\" and unfair business pract… [+3033 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Victoria Chynoweth, Contributor, \n Victoria Chynoweth, Contributor\n https://www.forbes.com/sites/victoriachynoweth/",
+        "title": "Top Upcoming Crypto Events To Chat About Bitcoin ETF",
+        "description": "Crypto events this year will serve as a hub to talk about the recovering market, EFTs, and the future of cryptocurrency.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/01/23/top-upcoming-crypto-events-to-chat-about-bitcoin-etf/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65b0291d80453ce0d6c1042a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-01-23T21:04:13Z",
+        "content": "Attendees enter the Paris Blockchain Week Summit in Paris, France, on Wednesday, March 22, 2023. ... [+] Photographer: Benjamin Girette/Bloomberg\r\n© 2023 Bloomberg Finance LP\r\nThe uncertainty and hyp… [+5868 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Charles Lloyd Bovaird II, Senior Contributor, \n Charles Lloyd Bovaird II, Senior Contributor\n https://www.forbes.com/sites/cbovaird/",
+        "title": "Bitcoin Market Sentiment Just Reached Highest Since May 2022",
+        "description": "A key indicator that evaluates long-term bitcoin market sentiment climbed to the most since May 2022, according to data from cryptocurrency analytics firm The Tie.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/02/01/bitcoin-market-sentiment-just-reached-highest-since-may-2022/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65bc3d379e1801fd79682927/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-02T01:30:03Z",
+        "content": "Bitcoin market sentiment has become very strong lately (Photo Illustration by Chesnot/Getty Images)\r\nGetty Images\r\nA long-term measure of bitcoin sentiment just attained its loftiest level in more th… [+1586 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Javier Bastardo, Contributor, \n Javier Bastardo, Contributor\n https://www.forbes.com/sites/javierbastardo/",
+        "title": "Craig Wright Must Prove He Invented Bitcoin In The UK High Court",
+        "description": "Craig Wright must proove he's Satoshi Nakamoto in his trial against the Cryptocurrency Open Patent Alliance that starts in February 5. Could he?",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/02/04/craig-wright-must-prove-he-invented-bitcoin-in-the-uk-high-court/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c030b97447f70d1d8bffb2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-05T01:04:34Z",
+        "content": "LONDON, ENGLAND - MAY 31: Executive Committee Member at the Bitcoin Association for BSV, Marcin ... [+] Zarakowski, CEO and Co-Founder of Britevue, Connor Murray and Dr. Craig Wright speak onstage du… [+3114 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Susie Violet Ward, Contributor, \n Susie Violet Ward, Contributor\n https://www.forbes.com/sites/susievioletward/",
+        "title": "Craig Wright's High-Stakes Legal Battle Over Bitcoin's Origin And Copyright",
+        "description": "The court set the stage for the intriguing legal face-off between the Cryptocurrency Open Patent Alliance Vs. Craig Wright, who claims he is the creator of bitcoin.",
+        "url": "https://www.forbes.com/sites/digital-assets/2024/02/07/craig-wrights-high-stakes-legal-battle-over-bitcoins-origin-and-copyright/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c35003786df570a1b0ef79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-02-07T09:44:02Z",
+        "content": "LONDON, ENGLAND - FEBRUARY 06: Dr. Craig Wright arrives at the Rolls Building, part of the Royal ... [+] Courts of Justice on February 06, 2024 in London, England. The Australian-born and English-res… [+5299 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coinpedia.org",
+        "title": "Internet Computer Hints Bearish Influence! ICP Price To Record 15% Correction Soon?",
+        "description": "Elena is an expert in technical analysis and risk management in cryptocurrency market. She has 10+year experience in writing - accordingly she is avid journalists with a passion towards researching new insights coming into crypto erena. The cryptocurrency ind…",
+        "url": "https://biztoc.com/x/8122900e69ed80ff",
+        "urlToImage": "https://c.biztoc.com/p/8122900e69ed80ff/s.webp",
+        "publishedAt": "2024-01-19T13:19:40Z",
+        "content": "Elena is an expert in technical analysis and risk management in cryptocurrency market. She has 10+year experience in writing - accordingly she is avid journalists with a passion towards researching n… [+229 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coinpedia.org",
+        "title": "South Korea’s Republic of Korea Urges Financial Regulators to Reconsider it’s anti-ETF Stance",
+        "description": "Nidhi is a Certified Digital Marketing Executive and Passionate crypto Journalist covering the world of alternative currencies. She shares the latest and trending news on Cryptocurrency and Blockchain. South Korean regulators made it very clear that spot Bitc…",
+        "url": "https://biztoc.com/x/54563a271df1f3f0",
+        "urlToImage": "https://c.biztoc.com/p/54563a271df1f3f0/s.webp",
+        "publishedAt": "2024-01-19T07:38:15Z",
+        "content": "Nidhi is a Certified Digital Marketing Executive and Passionate crypto Journalist covering the world of alternative currencies. She shares the latest and trending news on Cryptocurrency and Blockchai… [+286 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coinpedia.org",
+        "title": "Why is the Bitcoin Price Dropping? CryptoQuant CEO Reveals Possible Reasons",
+        "description": "Qadir Ak is the founder of Coinpedia. He has over a decade of experience writing about technology and has been covering the blockchain and cryptocurrency space since 2010. He has also interviewed a few prominent experts within the cryptocurrency space. In rec…",
+        "url": "https://biztoc.com/x/d5d6b9a8035b37dd",
+        "urlToImage": "https://c.biztoc.com/p/d5d6b9a8035b37dd/s.webp",
+        "publishedAt": "2024-01-24T12:42:29Z",
+        "content": "Qadir Ak is the founder of Coinpedia. He has over a decade of experience writing about technology and has been covering the blockchain and cryptocurrency space since 2010. He has also interviewed a f… [+291 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "coinpedia.org",
+        "title": "Who’s Behind the $400 Million FTX Hack? Truth Revealed",
+        "description": "Qadir Ak is the founder of Coinpedia. He has over a decade of experience writing about technology and has been covering the blockchain and cryptocurrency space since 2010. He has also interviewed a few prominent experts within the cryptocurrency space. Three …",
+        "url": "https://biztoc.com/x/a08ef6db4c946e78",
+        "urlToImage": "https://c.biztoc.com/p/a08ef6db4c946e78/s.webp",
+        "publishedAt": "2024-02-02T06:06:29Z",
+        "content": "Qadir Ak is the founder of Coinpedia. He has over a decade of experience writing about technology and has been covering the blockchain and cryptocurrency space since 2010. He has also interviewed a f… [+306 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "cnbc.com",
+        "title": "Bitcoin was up 155% in 2023",
+        "description": "Cryptocurrency investors spent much of 2023 waiting for good news. Following the late 2022 collapse of FTX — at the time the world's largest cryptocurrency exchange — popular digital currency bitcoin traded just north of $16,000 to start the year, a far cry f…",
+        "url": "https://biztoc.com/x/1d68aee31680fa78",
+        "urlToImage": "https://c.biztoc.com/p/1d68aee31680fa78/s.webp",
+        "publishedAt": "2024-01-22T20:34:06Z",
+        "content": "Cryptocurrency investors spent much of 2023 waiting for good news. Following the late 2022 collapse of FTX at the time the world's largest cryptocurrency exchange popular digital currency bitcoin tra… [+296 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "bitcoinist.com",
+        "title": "Wall Street Walkout? 1 in 3 Crypto Job Hunters Come From Banks",
+        "description": "The traditional banking industry is facing a talent drain, with a growing number of professionals migrating to the burgeoning world of cryptocurrency. A new study by Bitget reveals that one-third of all applicants for cryptocurrency exchange roles hail from b…",
+        "url": "https://biztoc.com/x/73f638b8e1be33fa",
+        "urlToImage": "https://c.biztoc.com/p/73f638b8e1be33fa/s.webp",
+        "publishedAt": "2024-01-26T08:12:06Z",
+        "content": "The traditional banking industry is facing a talent drain, with a growing number of professionals migrating to the burgeoning world of cryptocurrency. A new study by Bitget reveals that one-third of … [+301 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "theblock.co",
+        "title": "Bitcoin’s price rebounds above $43,000 as macro concerns temper some optimism",
+        "description": "The price of bitcoin has rallied back above the $43,000 mark with the volatile price action causing the liquidation of over $66 million in leveraged cryptocurrency positions. The world’s largest cryptocurrency by market capitalization increased by over 1.8% i…",
+        "url": "https://biztoc.com/x/db779aeed5d4d77c",
+        "urlToImage": "https://c.biztoc.com/p/db779aeed5d4d77c/s.webp",
+        "publishedAt": "2024-02-06T18:10:13Z",
+        "content": "The price of bitcoin has rallied back above the $43,000 mark with the volatile price action causing the liquidation of over $66 million in leveraged cryptocurrency positions. The worlds largest crypt… [+206 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Biztoc.com"
+        },
+        "author": "beincrypto.com",
+        "title": "Web3War®’s FPS Token to Be Listed on Gate.io",
+        "description": "Web3War® (W3W) announced that its native FPS token will be listed on Gate.io, a leading cryptocurrency exchange. Gate.io, a global top 10 digital asset exchange by daily trading volume, and a popular home for cryptocurrency traders for over a decade, is set t…",
+        "url": "https://biztoc.com/x/a03d95a097dd76a6",
+        "urlToImage": "https://c.biztoc.com/p/a03d95a097dd76a6/s.webp",
+        "publishedAt": "2024-02-08T12:14:09Z",
+        "content": "Web3War® (W3W) announced that its native FPS token will be listed on Gate.io, a leading cryptocurrency exchange.Gate.io, a global top 10 digital asset exchange by daily trading volume, and a popular … [+314 chars]"
+      }
+    ]
+  }
