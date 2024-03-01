@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import Logo from '../../Logo/Logo'
 import User from './User-Avatar.jpg';
 import { Link } from 'react-router-dom';
@@ -7,6 +7,9 @@ import Modefn from '../../State/Actioncreators'
 import { Dialog, Drawer, SwipeableDrawer } from '@mui/material';
 import { useMediaQuery } from 'react-responsive';
 import { DrawerMenu } from '../Sideutils/Sideutils';
+import { SearchFn } from './Seachfn';
+import axios from 'axios';
+import MYdropDown from '../Trends/DropDown';
 
 function SimpleDialog(props) {
     const Mode = useSelector(state => state.mode);
@@ -52,9 +55,42 @@ function SimpleDialog(props) {
 }
 
 export default function Navbar() {
+    let timerId;
+    const [Data, setData] = useState();
+    const [ShowSearchResult, setShowSearchResult] = useState(false);
+    const [SearchResult, setSearchResult] = useState();
+    const closeSearchResult = () => {
+        setShowSearchResult(false);
+    }
+    useEffect(() => {
+        async function GetCoinList() {
+            try {
+                const response = await axios.get("https://api.coingecko.com/api/v3/coins/list");
+                if (response.status === 200) {
+                    setData(response.data);
+                }
+                else {
+                    throw new Error("Either data is not found or api call limit may be exceeded");
+                }
+            } catch (error) {
+                console.log(error);
+            }
+        }
+        GetCoinList();
+        document.addEventListener("click", closeSearchResult);
+    }, []);
     const [Open, setOpen] = useState(false);
     const [DrawerStatus, setDrawerStatus] = useState(false);
     const [SearchBar, setSearchBar] = useState(false);
+    const SearchInput = (event) => {
+        if (timerId) {
+            clearTimeout(timerId);
+        }
+        timerId = setTimeout(() => {
+            setSearchResult(SearchFn(event.target.value, Data));
+            setShowSearchResult(true);
+        }, 1500);
+    }
     const smallScreen = useMediaQuery({ query: '(min-width: 850px)' });
     const Mode = useSelector(state => state.mode);
     const dispatch = useDispatch();
@@ -133,17 +169,27 @@ export default function Navbar() {
                     onClose={SearchBarOpen}
                     PaperProps={{
                         sx: {
-                            height: "5.5rem",
+                            height: "50%",
                             width: "100%",
                             backgroundColor: `${Mode.active_btn === "Active-btn-light" ? "#030614" : "white"}`
                         }
                     }}
                 >
-                    <div className='flex h-full items-center'>
-                    <div className={`h-12 w-full flex items-center py-2 px-4 border-2 gap-x-2 rounded-xl border-slate-500 ${Mode.primarybox}`}>
-                        <i className="fa-solid fa-magnifying-glass"></i>
-                        <input type="text" placeholder='Search..' className={`h-full outline-0 w-full ${Mode.primarybox}`} />
-                    </div>
+                    <div className={`flex h-full items-center ${Mode.primarybox}`}>
+                        <div className={`h-12 w-full flex items-center py-2 px-4 border-2 gap-x-2 fixed top-0 left-0 rounded-xl border-slate-500 z-10 ${Mode.primarybox}`}>
+                            <i className="fa-solid fa-magnifying-glass"></i>
+                            <input type="text" placeholder='Search..' className={`h-full outline-0 w-full ${Mode.primarybox}`} onChange={SearchInput} />
+                        </div>
+                        {ShowSearchResult && SearchResult &&
+                            // console.log(SearchResult)
+                            // <select value={"null"}>
+                            <div className='flex flex-col absolute top-14 left-0 bg-white overflow-y-scroll h-[200px] w-full border-2 border-t-0'>
+                                {SearchResult.map((item) =>
+                                    <Link to={`coins/${item.id}`} className='py-1 border-b-2 flex flex-col justify-center hover:bg-gray-200' onClick={() => sessionStorage.setItem("CoinName", item.id)}>{item.name}</Link>
+                                )}
+                            </div>
+                            // </select>
+                        }
                     </div>
                 </Drawer>
             }
@@ -155,9 +201,21 @@ export default function Navbar() {
                             <Logo />
                             <p className='text-2xl font-bold'>CryptoFinder</p>
                         </Link>
-                        <div className='h-12 w-96 flex items-center py-2 px-4 border-2 gap-x-2 rounded-xl border-slate-500'>
-                            <i className="fa-solid fa-magnifying-glass"></i>
-                            <input type="text" placeholder='Search..' className={`h-full outline-0 w-full ${Mode.primarybox}`} />
+                        <div className='flex flex-col w-96 relative'>
+                            <div className='h-12 w-96 flex items-center py-2 px-4 border-2 gap-x-2 rounded-xl border-slate-500'>
+                                <i className="fa-solid fa-magnifying-glass"></i>
+                                <input type="text" placeholder='Search..' className={`h-full outline-0 w-full ${Mode.primarybox} z-10`} onChange={SearchInput} />
+                                {ShowSearchResult && SearchResult &&
+                                    // console.log(SearchResult)
+                                    // <select value={"null"}>
+                                    <div className='flex flex-col absolute top-12 left-0 bg-white overflow-y-scroll h-[200px] w-full border-2 border-t-0'>
+                                        {SearchResult.map((item) =>
+                                            <Link to={`coins/${item.id}`} className='py-1 border-b-2 flex flex-col justify-center hover:bg-gray-200' onClick={() => sessionStorage.setItem("CoinName", item.id)}>{item.name}</Link>
+                                        )}
+                                    </div>
+                                    // </select>
+                                }
+                            </div>
                         </div>
                     </div>
                     :

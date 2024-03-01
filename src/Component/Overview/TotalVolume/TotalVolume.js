@@ -40,7 +40,7 @@ export default function TotalVolume({ coins }) {
   return (
     <div className={`flex flex-col border-black basis-1/3 rounded-3xl h-fit py-5 px-2 gap-y-4 w-full ${Mode.container}`}>
       <div className='flex gap-x-5 items-center px-5'>
-        <i class="fa-solid fa-chart-bar fa-rotate-270 fa-2xl" style={{ color: "#74C0FC" }}></i>
+        <i className="fa-solid fa-chart-bar fa-rotate-270 fa-2xl" style={{ color: "#74C0FC" }}></i>
         <div className='flex flex-col'>
           <p className='font-bold text-l'>Total Volume</p>
           <p className='font-bold text-2xl'>US${Moneyconvert(max_volume)}</p>
