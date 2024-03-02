@@ -164,34 +164,45 @@ export default function Navbar() {
             }
             {
                 SearchBar &&
-                <Drawer
-                    open={SearchBar}
-                    onClose={SearchBarOpen}
-                    PaperProps={{
-                        sx: {
-                            height: "50%",
-                            width: "100%",
-                            backgroundColor: `${Mode.active_btn === "Active-btn-light" ? "#030614" : "white"}`
-                        }
-                    }}
-                >
-                    <div className={`flex h-full items-center ${Mode.primarybox}`}>
-                        <div className={`h-12 w-full flex items-center py-2 px-4 border-2 gap-x-2 fixed top-0 left-0 rounded-xl border-slate-500 z-10 ${Mode.primarybox}`}>
-                            <i className="fa-solid fa-magnifying-glass"></i>
-                            <input type="text" placeholder='Search..' className={`h-full outline-0 w-full ${Mode.primarybox}`} onChange={SearchInput} />
-                        </div>
-                        {ShowSearchResult && SearchResult &&
-                            // console.log(SearchResult)
-                            // <select value={"null"}>
-                            <div className='flex flex-col absolute top-14 left-0 bg-white overflow-y-scroll h-[200px] w-full border-2 border-t-0'>
-                                {SearchResult.map((item) =>
-                                    <Link to={`coins/${item.id}`} className='py-1 border-b-2 flex flex-col justify-center hover:bg-gray-200' onClick={() => sessionStorage.setItem("CoinName", item.id)}>{item.name}</Link>
-                                )}
+                // <div className='flex flex-col border-2 border-red-600 flex justify-center items-center'>
+                    <Drawer
+                        open={SearchBar}
+                        onClose={SearchBarOpen}
+                        sx={{
+                            display:"flex",
+                            justifyContent:"center",
+                            alignItems:"center"
+                        }}
+                        PaperProps={{
+                            sx: {
+                                width: "100%",
+                                backgroundColor: `${Mode.active_btn === "Active-btn-light" ? "#030614" : "white"}`
+                            }
+                        }}
+                    >
+                        <div className={`flex flex-col justify-center items-center ${Mode.primarybox}`}>
+                            <div className={`h-12 w-[95%] flex ml-[2.5%] justify-between items-center py-2 px-4 border-2 fixed top-2 left-0 rounded-xl border-slate-500 z-10 ${Mode.primarybox}`}>
+                                <div className='flex items-center gap-x-2'>
+                                    <i className="fa-solid fa-magnifying-glass"></i>
+                                    <input type="text" placeholder='Search..' className={`h-full outline-0 w-full ${Mode.primarybox}`} onChange={SearchInput} />
+                                </div>
+                                <div className={`border-2 px-1.5 py-1 flex justify-center items-center rounded-full ${Mode.active_btn === "Active-btn-light" ? "border-white" : "border-black"} cursor-pointer`} onClick={SearchBarOpen}>
+                                    <i class="fa-solid fa-xmark"></i>
+                                </div>
                             </div>
-                            // </select>
-                        }
-                    </div>
-                </Drawer>
+                            {ShowSearchResult && SearchResult &&
+                                // console.log(SearchResult)
+                                // <select value={"null"}>
+                                <div className={`flex flex-col absolute top-14 left-[2.5%] overflow-y-scroll h-[88%] w-[95%] border-2 border-t-0 ${Mode.primarybox}`}>
+                                    {SearchResult.map((item) =>
+                                        <Link to={`coins/${item.id}`} className='px-2 py-1 border-b-2 flex flex-col justify-center hover:bg-gray-200' onClick={() => sessionStorage.setItem("CoinName", item.id)}>{item.name}</Link>
+                                    )}
+                                </div>
+                                // </select>
+                            }
+                        </div>
+                    </Drawer>
+                // </div>
             }
             <div className={`flex justify-between items-center py-5 px-5 ${Mode.primarybox}`}>
                 {smallScreen
@@ -208,7 +219,7 @@ export default function Navbar() {
                                 {ShowSearchResult && SearchResult &&
                                     // console.log(SearchResult)
                                     // <select value={"null"}>
-                                    <div className='flex flex-col absolute top-12 left-0 bg-white overflow-y-scroll h-[200px] w-full border-2 border-t-0'>
+                                    <div className='flex flex-col absolute top-12 left-0 bg-white overflow-y-scroll max-h-[200px] w-full border-2 border-t-0'>
                                         {SearchResult.map((item) =>
                                             <Link to={`coins/${item.id}`} className='py-1 border-b-2 flex flex-col justify-center hover:bg-gray-200' onClick={() => sessionStorage.setItem("CoinName", item.id)}>{item.name}</Link>
                                         )}
